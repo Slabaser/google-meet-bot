@@ -1,0 +1,28 @@
+# Kullanıcı profili (Google Chrome)
+bot-profile/
+
+# Kayıt dosyaları
+output/
+*.mp3
+
+# Node bağımlılıkları
+node_modules/
+
+# Geçici dosyalar / loglar
+npm-debug.log*
+.DS_Store
+.env
+
+# MacOS sistem dosyaları
+.Spotlight-V100
+.Trashes
+
+# VS Code editörü dosyaları
+.vscode/
+*.code-workspace
+
+# Terminal history dosyaları
+*.log
+
+# FFmpeg geçici dosyaları (bazen olur)
+*.tmp
